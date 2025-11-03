@@ -27,13 +27,11 @@ https://crypto-dash-ts.vercel.app/
 
 ---
 
-## 元教材
+![画面イメージ](https://github.com/t-kitamoto/crypto-dash-ts/blob/main/public/image.png)
+
+---
 
 ## 元教材
-
-Modern React From The Beginning　Learn React from the ground up along with modern environments such as React Router v7, TanStack, MERN, etc
-
-https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=PLOYALTY0923
 
 Modern React From The Beginning　Learn React from the ground up along with modern environments such as React Router v7, TanStack, MERN, etc
 
