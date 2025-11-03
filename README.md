@@ -18,6 +18,7 @@
 
 - JavascriptのコードをTypescriptに置きかえ。
 - グローバルCSSをTailwind CSSに置きかえ。
+- 外部APIデータの取得・整形処理
 
 ---
 
