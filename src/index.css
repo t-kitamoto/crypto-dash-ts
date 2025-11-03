@@ -1,4 +1,7 @@
+@import "tailwindcss";
+
 /* src/index.css */
+/*
 * {
   margin: 0;
   padding: 0;
@@ -65,8 +68,9 @@ a {
 .negative {
   color: #f44336;
 }
-
+*/
 /* Top Controls */
+/*
 .top-controls {
   display: flex;
   justify-content: space-between;
@@ -83,8 +87,9 @@ a {
 .top-controls .controls {
   flex-shrink: 0;
 }
-
+*/
 /* Limit Select */
+/*
 .controls {
   margin-bottom: 2rem;
   display: flex;
@@ -104,8 +109,9 @@ a {
   color: white;
   border: none;
 }
-
+*/
 /* Filter Input */
+/*
 .filter {
   margin-bottom: 2rem;
 }
@@ -119,8 +125,9 @@ a {
   color: #fff;
   font-size: 1rem;
 }
-
+*/
 /* Top Nav */
+/*
 .top-nav {
   display: flex;
   justify-content: flex-end;
@@ -138,8 +145,9 @@ a {
 .top-nav a:hover {
   color: #4090db;
 }
-
+*/
 /* About Page */
+/*
 .about {
   max-width: 600px;
   margin: 0 auto;
@@ -157,8 +165,9 @@ a {
   margin-bottom: 1rem;
   line-height: 1.6;
 }
-
+*/
 /* Coin Details */
+/*
 .coin-details-container {
   max-width: 700px;
   margin: 40px auto;
@@ -226,8 +235,9 @@ a {
 .coin-details-links a:hover {
   text-decoration: underline;
 }
-
+*/
 /* Modal */
+/*
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -272,3 +282,4 @@ a {
     opacity: 1;
   }
 }
+*/
