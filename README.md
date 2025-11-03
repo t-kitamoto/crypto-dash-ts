@@ -1,4 +1,4 @@
-# 🚀 Crypt Dash TS
+# 🚀 Crypto Dash TS
 
 このアプリは、「Modern React From The Beginning」をベースに作成した学習用のシンプルなダッシュボードアプリです。
 
