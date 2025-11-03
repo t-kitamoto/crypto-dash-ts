@@ -60,7 +60,7 @@ export default function Home({
 
   return (
     <div className="min-h-screen bg-[#0e1117] px-8 pb-8 font-sans leading-relaxed text-[#f0f0f0]">
-      <h1 className="mb-8 text-3xl">🚀 Crypt Dash TS</h1>
+      <h1 className="mb-8 text-3xl">🚀 Crypto Dash TS</h1>
       {isLoading && <Spinner />}
       {error && <ErrorMessage message={error} />}
 
